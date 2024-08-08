@@ -25,7 +25,7 @@ activate the venv in linux
 ```bash
 source venv/bin/activate
 ```
-### 3. Prepare the Data and Install Dependencies
+### 2. Prepare the Data and Install Dependencies
 
 1. Go to the `src` folder in your project directory.
 2. Create a folder called `data` inside the `src` folder.
@@ -35,5 +35,5 @@ source venv/bin/activate
     pip install -r requirments.txt
     ```
 
-### 4. Run the Jupyter Notebook
+### 3. Run the Jupyter Notebook
 With everything set up, you can now run the Jupyter Notebook.
