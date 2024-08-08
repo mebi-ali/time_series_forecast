@@ -29,7 +29,7 @@ source venv/bin/activate
 
 1. Go to the `src` folder in your project directory.
 2. Create a folder called `data` inside the `src` folder.
-3. Paste the zip file that you have downloaded this [Link](https://www.kaggle.com/datasets/tanavbajaj/yahoo-finance-all-stocks-dataset-daily-update/code).
+3. Paste the zip file that you have downloaded from [Link](https://www.kaggle.com/datasets/tanavbajaj/yahoo-finance-all-stocks-dataset-daily-update/code).
 4. install Dependencies
      ```bash
     pip install -r requirments.txt
